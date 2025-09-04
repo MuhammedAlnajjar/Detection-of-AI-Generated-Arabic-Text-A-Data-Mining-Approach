@@ -1,4 +1,8 @@
 # Detection-of-AI-Generated-Arabic-Text-A-Data-Mining-Approach
+#!/usr/bin/perl
+use strict;
+use warnings;
+use File::Path qw(make_path);
 # === Project name ===
 my $project_root = "Detection-of-AI-Generated-Arabic-Text-A-Data-Mining-Approach";
 
